@@ -1,12 +1,11 @@
 ## Amie's Portfolio
 
-You can use the [editor on GitHub](https://github.com/amodavis/amodavis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm the UNICORN you need!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data Scientist/Mathematician/IT Specialist/Application Developer/Statistician/SQL SME/Domain Sepcialist (Geospatial, Transportation, Reservation, Marketing)
+You can find my portfolio at https://github.com/amodavis.
 
 ```markdown
 Syntax highlighted code block
