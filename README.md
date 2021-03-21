@@ -1,12 +1,15 @@
 ## Amie's Portfolio
 
-### Specialities
+### Roles
+Data Scientist/Mathematician/IT Specialist/Application Developer/Statistician
 
-Data Scientist/Mathematician/IT Specialist/Application Developer/Statistician/SQL SME
+### Skills
+Python, R, SQL, Awk
 
-Domain Specialist (Geospatial, Transportation, Reservation, Marketing)
+### Domain Specialities
+Domain Specialties (Geospatial, Transportation, Reservation, Marketing)
 
-### Portrfolio
+### Portfolio
 You can find my portfolio at https://github.com/amodavis.
 
 ```markdown
