@@ -7,13 +7,16 @@ Data Scientist/Mathematician/IT Specialist/Application Developer/Statistician
 Python, R, SQL, Awk
 
 ### Domain Specialities
-Domain Specialties (Geospatial, Transportation, Reservation, Marketing)
+Geospatial, Transportation, Reservation, Marketing
 
 ### Portfolio
 You can find my portfolio [here](https://github.com/amodavis).
 
 ### Sub-Pages
 [a relative link](relative.md)
+
+### Images
+![Image](src)
 
 
 ```markdown
