@@ -1,12 +1,11 @@
 ## Amie's Portfolio
 
-I'm the UNICORN you need!
-
-### Markdown
+### Specialities
 
 Data Scientist/Mathematician/IT Specialist/Application Developer/Statistician/SQL SME
 Domain Sepcialist (Geospatial, Transportation, Reservation, Marketing)
 
+### Portrfolio
 You can find my portfolio at https://github.com/amodavis.
 
 ```markdown
