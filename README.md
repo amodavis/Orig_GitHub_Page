@@ -3,7 +3,8 @@
 ### Specialities
 
 Data Scientist/Mathematician/IT Specialist/Application Developer/Statistician/SQL SME
-Domain Sepcialist (Geospatial, Transportation, Reservation, Marketing)
+
+Domain Specialist (Geospatial, Transportation, Reservation, Marketing)
 
 ### Portrfolio
 You can find my portfolio at https://github.com/amodavis.
