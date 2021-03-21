@@ -16,7 +16,7 @@ You can find my portfolio [here](https://github.com/amodavis).
 [a relative link](relative.md)
 
 ### Images
-![Image](src)
+![Image](Figure2.png)
 
 
 ```markdown
