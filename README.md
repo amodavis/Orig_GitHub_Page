@@ -10,7 +10,7 @@ Python, R, SQL, Awk
 Domain Specialties (Geospatial, Transportation, Reservation, Marketing)
 
 ### Portfolio
-You can find my portfolio at [link](https://github.com/amodavis).
+You can find my portfolio [here](https://github.com/amodavis).
 
 ### Sub-Pages
 [a relative link](relative.md)
